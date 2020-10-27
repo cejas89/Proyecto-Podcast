@@ -395,7 +395,7 @@ list-style: none;
 
 /* -----------------------------------------MEDIA QUERI------------------------------------------ */
 
-@media only screen and (min-width: 321px) {
+@media only screen and (min-width: 600px) {
 
 body {
 max-width: 1440px;
